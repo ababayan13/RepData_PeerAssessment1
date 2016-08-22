@@ -2,7 +2,7 @@
 title: "Activity monitoring data analysis"
 author: "Astrid Babayan"
 date: "August 21, 2016"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
